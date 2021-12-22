@@ -3,4 +3,4 @@ export const Events = {
   AKV_SMS_RETRIEVE_ERROR: 'AKV_SMS_RETRIEVE_ERROR',
 };
 
-export const DEFAULT_CODE_LENGTH = 6;
+export const DEFAULT_CODE_LENGTH = 4;
